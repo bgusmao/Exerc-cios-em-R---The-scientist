@@ -1,6 +1,6 @@
 # Exerc-cios-em-R---The-scientist
 
-Exercício: DATASET com funcões aleatória; graficos; histograma;split; lapply.
+# Exercício: DATASET com funcões aleatória; graficos; histograma;split; lapply.
 
 # 1. Criar um dataset com pelo menos cinco colunas numéricas e três categóricas.
 # 2. Use as funções de criação de distribuição aleatória, use pelo menos duas
